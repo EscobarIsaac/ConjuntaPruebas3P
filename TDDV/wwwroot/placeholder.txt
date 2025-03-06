@@ -1,0 +1,1 @@
+Este es un archivo de marcador de posición para evitar errores de ruta.
